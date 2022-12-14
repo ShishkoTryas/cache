@@ -1,7 +1,5 @@
 # Go in-memory-cache
 
-## See it in action:
-
 ### Example
 
 ```go
