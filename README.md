@@ -1,8 +1,10 @@
-Go in-memory-cache
+# Go in-memory-cache
 
-See it in action:
+## See it in action:
 
-Example
+### Example
+
+
 package main
 
 import (
